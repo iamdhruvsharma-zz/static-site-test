@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://example.org/"
+baseurl = "https://iamdhruvsharma.github.io/static-site-test/"
 themesDir = "themes"
 publishDir = "docs"
 languageCode = "en-us"
